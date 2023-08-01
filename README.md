@@ -8,9 +8,7 @@ The dataset contains several attributes related to patients, including age, sex,
 
 Project Structure
 The project is divided into two Jupyter notebooks:
-
 DiabetesRiskPrediction_DataPreprocessing.ipynb: This notebook handles data preprocessing tasks, such as dealing with missing values, encoding categorical variables, and splitting the dataset into training and testing sets. The preprocessed datasets are saved and exported as X_train, X_test, y_train, and y_test for further modeling.
-
 DiabetesRiskPrediction_models.ipynb: In this notebook, various machine learning models are implemented, including logistic regression, support vector machine (SVM), decision trees, and deep neural networks. Hyperparameter tuning is performed to optimize the models, and the performance metric chosen for evaluation is recall, which measures the true positive rate. The deep neural network model achieved the best performance with an impressive recall score of 98.9%
 
 Instructions for Running the Project
