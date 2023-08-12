@@ -2,7 +2,11 @@
 
 This project is dedicated to forecasting the risk of early-stage diabetes through the application of advanced machine learning methods. The dataset employed for this project originates from patients at the Sylhet Diabetes Hospital in Sylhet, Bangladesh, and has been approved by a medical professional.
 
+
+
 ## Dataset Overview
+The dataset used for this project can be accessed through the following link: [Early Stage Diabetes Risk Prediction Dataset](https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset)
+
 The dataset encompasses the following attributes:
 
 1. Age: Age of the patient (ranging from 20 to 65)
