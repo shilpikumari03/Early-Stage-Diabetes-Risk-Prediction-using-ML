@@ -40,8 +40,8 @@ To execute this project on your local machine, adhere to the ensuing steps:
 2. Install the necessary libraries and dependencies outlined in the requirements.txt file.
 
 3. Sequentially open and run the Jupyter notebooks as follows:
-    3.1. DiabetesRiskPrediction_DataPreprocessing.ipynb
-    3.2. DiabetesRiskPrediction_models.ipynb
+- DiabetesRiskPrediction_DataPreprocessing.ipynb
+- DiabetesRiskPrediction_models.ipynb
 
 4. Execute each cell in the notebooks sequentially to preprocess the data, train the machine learning models, and evaluate their performance.
 
